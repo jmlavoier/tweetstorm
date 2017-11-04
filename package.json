@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "prompt": "^1.0.0",
+    "twit": "^2.2.9"
+  }
+}
